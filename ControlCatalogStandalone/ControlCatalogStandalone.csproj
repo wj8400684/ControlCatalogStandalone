@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 <PropertyGroup>
-  <TargetFramework>net7.0</TargetFramework>
+  <TargetFramework>netstandard2.0</TargetFramework>
   <Nullable>enable</Nullable>
-  <LangVersion>latest</LangVersion>
+  <LangVersion>12</LangVersion>
   <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
   <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 </PropertyGroup>
