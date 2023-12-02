@@ -10,10 +10,6 @@
 
 <ItemGroup>
   <AvaloniaResource Include="Assets\**" />
-  <AvaloniaResource Include="Assets\Fonts\SourceSansPro-Bold.ttf" />
-  <AvaloniaResource Include="Assets\Fonts\SourceSansPro-BoldItalic.ttf" />
-  <AvaloniaResource Include="Assets\Fonts\SourceSansPro-Italic.ttf" />
-  <AvaloniaResource Include="Assets\Fonts\SourceSansPro-Regular.ttf" />
   <EmbeddedResource Include="Pages\teapot.bin" />
 </ItemGroup> 
 <ItemGroup>
