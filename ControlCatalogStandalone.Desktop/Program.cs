@@ -17,7 +17,7 @@ class Program
     {
         var app = AppBuilder.Configure<App>()
             .UseSkia() // skia
-            .UseFontSourceSansPro()
+            .UseFontSourceSansPro()//In some platforms, it may not be opened after publishing with aot, please remove it!
             .LogToTrace();
 
 #if Linux
